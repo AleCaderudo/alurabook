@@ -2,7 +2,7 @@
 <h1>Site Pessoal</h1>
 
 <h2>Sobre</h2>
-<p>Site desenvolvido como parta do projeto do Curso de HTML e CSS: responsividade com mobile-first da Alura e Grupo Boticário.</p>
+<p>Site desenvolvido como parte do projeto do Curso de HTML e CSS: responsividade com mobile-first da Alura e Grupo Boticário.</p>
 
 ## Tecnologias
 <div>
